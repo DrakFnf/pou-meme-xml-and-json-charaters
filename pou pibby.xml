@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pou pibby.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MOM DOWN POSE0000" x="5" y="5" width="460" height="814" frameX="-4" frameY="0" frameWidth="414" frameHeight="613"/>
+	<SubTexture name="MOM DOWN POSE0001" x="475" y="5" width="460" height="814" frameX="-4" frameY="0" frameWidth="414" frameHeight="613"/>
+	<SubTexture name="Mom Idle0000" x="945" y="5" width="460" height="814" frameX="-4" frameY="-2" frameWidth="390" frameHeight="829"/>
+	<SubTexture name="Mom Idle0001" x="1415" y="5" width="460" height="814" frameX="-4" frameY="-2" frameWidth="390" frameHeight="829"/>
+	<SubTexture name="Mom Idle0002" x="5" y="829" width="460" height="814" frameX="-4" frameY="-14" frameWidth="390" frameHeight="829"/>
+	<SubTexture name="Mom Idle0003" x="475" y="829" width="460" height="814" frameX="-4" frameY="-14" frameWidth="390" frameHeight="829"/>
+	<SubTexture name="Mom Left Pose0000" x="945" y="829" width="460" height="814" frameX="0" frameY="0" frameWidth="607" frameHeight="818"/>
+	<SubTexture name="Mom Left Pose0001" x="1415" y="829" width="460" height="814" frameX="0" frameY="0" frameWidth="607" frameHeight="818"/>
+	<SubTexture name="Mom Pose Left0000" x="1885" y="5" width="460" height="814"/>
+	<SubTexture name="Mom Pose Left0001" x="1885" y="829" width="460" height="814"/>
+	<SubTexture name="Mom Up Pose0000" x="5" y="1653" width="460" height="814" frameX="0" frameY="-9" frameWidth="395" frameHeight="862"/>
+	<SubTexture name="Mom Up Pose0001" x="475" y="1653" width="460" height="814" frameX="0" frameY="-9" frameWidth="395" frameHeight="862"/>
+</TextureAtlas>
